@@ -1,0 +1,11 @@
+# Large Kaggle data files
+data/train.csv
+data/test.csv
+
+# Course lecture slides
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
